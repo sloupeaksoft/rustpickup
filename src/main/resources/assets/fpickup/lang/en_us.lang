@@ -1,0 +1,4 @@
+key.fpickup.pickup=Pick up item
+key.categories.fpickup=F Pickup
+fpickup.prompt=Pick up
+fpickup.inventory_full=Inventory is full

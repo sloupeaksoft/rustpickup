@@ -1,0 +1,11 @@
+[
+{
+  "modid": "fpickup",
+  "name": "F Pickup",
+  "description": "Rust-style pickup: items are picked up only with a key (default F). The item under the crosshair gets a white outline and a prompt.",
+  "version": "3.0",
+  "mcversion": "1.12.2",
+  "authorList": ["netrfloox"],
+  "dependencies": []
+}
+]
